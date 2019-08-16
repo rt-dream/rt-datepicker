@@ -1,38 +1,38 @@
-# rt-datepicker
+# rtdream-datepicker
 
-[English Version](https://github.com/rt-dream/rt-datepicker/blob/master/README.md)
+[English Version](https://github.com/rt-dream/rtdream-datepicker/blob/master/README.md)
 
 > 一个基于Vue2.x的日期时间选择组件
 
-<!-- <a href="https://travis-ci.org/mengxiong10/vue2-datepicker">
-  <img src="https://travis-ci.org/mengxiong10/vue2-datepicker.svg?branch=master" alt="build:passed">
+<!-- <a href="https://travis-ci.org/mengxiong10/rtdream-datepicker">
+  <img src="https://travis-ci.org/mengxiong10/rtdream-datepicker.svg?branch=master" alt="build:passed">
 </a>
-<a href="https://coveralls.io/github/mengxiong10/vue2-datepicker">
-  <img src="https://coveralls.io/repos/github/mengxiong10/vue2-datepicker/badge.svg?branch=master&service=github" alt="Badge">
+<a href="https://coveralls.io/github/mengxiong10/rtdream-datepicker">
+  <img src="https://coveralls.io/repos/github/mengxiong10/rtdream-datepicker/badge.svg?branch=master&service=github" alt="Badge">
 </a>
-<a href="https://www.npmjs.com/package/vue2-datepicker">
-  <img src="https://img.shields.io/npm/v/vue2-datepicker.svg" alt="npm">
+<a href="https://www.npmjs.com/package/rtdream-datepicker">
+  <img src="https://img.shields.io/npm/v/rtdream-datepicker.svg" alt="npm">
 </a>
 <a href="LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT">
 </a> -->
 
 <!-- ## 线上Demo
-<https://mengxiong10.github.io/vue2-datepicker/demo/index.html>
+<https://mengxiong10.github.io/rtdream-datepicker/demo/index.html>
 
-![image](https://github.com/mengxiong10/vue2-datepicker/raw/master/screenshot/demo.PNG) -->
+![image](https://github.com/mengxiong10/rtdream-datepicker/raw/master/screenshot/demo.PNG) -->
 
 ## 安装
 
 ```bash
-$ npm install vue2-datepicker --save
+$ npm install rtdream-datepicker --save
 ```
 
 ## 用法
 
 ```html
 <script>
-import DatePicker from 'vue2-datepicker'
+import DatePicker from 'rtdream-datepicker'
 
 export default {
   components: { DatePicker },
@@ -196,6 +196,6 @@ export default {
 
 <!-- ## 许可证
 
-[MIT](https://github.com/mengxiong10/vue2-datepicker/blob/master/LICENSE)
+[MIT](https://github.com/mengxiong10/rtdream-datepicker/blob/master/LICENSE)
 
 Copyright (c) 2017-present xiemengxiong -->

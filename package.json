@@ -1,5 +1,5 @@
 {
-  "name": "rt-datepicker",
+  "name": "rtdream-datepicker",
   "description": "A Datepicker Component For Vue2",
   "main": "lib/index.js",
   "files": [
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rt-dream/rt-datepicker.git"
+    "url": "git+https://github.com/rt-dream/rtdream-datepicker.git"
   },
   "keywords": [
     "vue",

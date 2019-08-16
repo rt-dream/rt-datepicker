@@ -1,38 +1,38 @@
-# rt-datepicker
+# rtdream-datepicker
 
-[中文版](https://github.com/rt-dream/rt-datepicker/blob/master/README.zh-CN.md)
+[中文版](https://github.com/rt-dream/rtdream-datepicker/blob/master/README.zh-CN.md)
 
 > A Datepicker Component For Vue2
 
-<!-- <a href="https://travis-ci.org/mengxiong10/vue2-datepicker">
-  <img src="https://travis-ci.org/mengxiong10/vue2-datepicker.svg?branch=master" alt="build:passed">
+<!-- <a href="https://travis-ci.org/mengxiong10/rtdream-datepicker">
+  <img src="https://travis-ci.org/mengxiong10/rtdream-datepicker.svg?branch=master" alt="build:passed">
 </a>
-<a href="https://coveralls.io/github/mengxiong10/vue2-datepicker">
-  <img src="https://coveralls.io/repos/github/mengxiong10/vue2-datepicker/badge.svg?branch=master&service=github" alt="Badge">
+<a href="https://coveralls.io/github/mengxiong10/rtdream-datepicker">
+  <img src="https://coveralls.io/repos/github/mengxiong10/rtdream-datepicker/badge.svg?branch=master&service=github" alt="Badge">
 </a>
-<a href="https://www.npmjs.com/package/vue2-datepicker">
-  <img src="https://img.shields.io/npm/v/vue2-datepicker.svg" alt="npm">
+<a href="https://www.npmjs.com/package/rtdream-datepicker">
+  <img src="https://img.shields.io/npm/v/rtdream-datepicker.svg" alt="npm">
 </a>
 <a href="LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT">
 </a> -->
 
 <!-- ## Demo -->
-<!-- <https://mengxiong10.github.io/vue2-datepicker/demo/index.html>
+<!-- <https://mengxiong10.github.io/rtdream-datepicker/demo/index.html>
 
-![image](https://github.com/mengxiong10/vue2-datepicker/raw/master/screenshot/demo.PNG) -->
+![image](https://github.com/mengxiong10/rtdream-datepicker/raw/master/screenshot/demo.PNG) -->
 
 ## Install
 
 ```bash
-$ npm install vue2-datepicker --save
+$ npm install rtdream-datepicker --save
 ```
 
 ## Usage
 
 ```html
 <script>
-import DatePicker from 'vue2-datepicker'
+import DatePicker from 'rtdream-datepicker'
 
 export default {
   components: { DatePicker },
@@ -197,6 +197,6 @@ custom time-select for columns
 
 <!-- ## License -->
 
-<!-- [MIT](https://github.com/mengxiong10/vue2-datepicker/blob/master/LICENSE)
+<!-- [MIT](https://github.com/mengxiong10/rtdream-datepicker/blob/master/LICENSE)
 
 Copyright (c) 2017-present xiemengxiong -->
