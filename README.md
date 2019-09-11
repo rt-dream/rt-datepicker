@@ -22,6 +22,9 @@
 
 ![image](https://github.com/mengxiong10/rtdream-datepicker/raw/master/screenshot/demo.PNG) -->
 
+### Demo
+[demo](https://rt-dream.github.io/rt-datepicker/demo/, 'datepicker demo')
+
 ## Install
 
 ```bash
