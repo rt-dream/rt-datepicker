@@ -23,7 +23,7 @@
 ![image](https://github.com/mengxiong10/rtdream-datepicker/raw/master/screenshot/demo.PNG) -->
 
 ### Demo
-[demo 演示页面](https://rt-dream.github.io/rt-datepicker/demo/, '日历demo演示页面')
+[demo 演示页面]<https://rt-dream.github.io/rt-datepicker/demo/>
 
 ## 安装
 
